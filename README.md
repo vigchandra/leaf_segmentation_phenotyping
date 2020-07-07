@@ -1,3 +1,3 @@
 # leaf_segmentation_phenotyping
 
-![](dash.PNG)
+![](https://github.com/vigchandra/leaf_segmentation_phenotyping/blob/master/dash.png)
